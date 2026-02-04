@@ -4,13 +4,13 @@
   "products": {
     "vocalforge": {
       "hasDiscount": true,
-      "discountCode": "HAPPYNEWYEAR",
-      "discountedPrice": "$29.99",
+      "discountCode": "LOWLATENCY",
+      "discountedPrice": "$27.99",
       "originalPrice": "$39.99",
-      "percentOff": 25,
-      "discountEndDate": "2026-01-31T23:59:59Z",
-      "urgencyMessage": "New Year Sale",
-      "badgeText": "25% OFF"
+      "percentOff": 30,
+      "discountEndDate": "2026-02-8T23:59:59Z",
+      "urgencyMessage": "Flash Sale",
+      "badgeText": "30% OFF"
     },
     "overcomp": {
       "hasDiscount": false,
