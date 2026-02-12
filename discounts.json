@@ -4,13 +4,13 @@
   "products": {
     "vocalforge": {
       "hasDiscount": true,
-      "discountCode": "LOWLATENCY",
-      "discountedPrice": "$27.99",
+      "discountCode": "FLASH40",
+      "discountedPrice": "$23.99",
       "originalPrice": "$39.99",
-      "percentOff": 30,
-      "discountEndDate": "2026-02-11T23:59:59Z",
+      "percentOff": 40,
+      "discountEndDate": "2026-02-18T23:59:59Z",
       "urgencyMessage": "Flash Sale",
-      "badgeText": "30% OFF"
+      "badgeText": "40% OFF"
     },
     "overcomp": {
       "hasDiscount": false,
